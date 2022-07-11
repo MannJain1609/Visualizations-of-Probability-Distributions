@@ -1,4 +1,5 @@
 ### Introduction
+## Visualizations of different Probability Distributions 
 
 This project visualizes different continuous and discrete probability distributions with their properties.
 <br>
@@ -17,6 +18,7 @@ The web app is deployed on the **Hugging Face Spaces.**
 <br>
 **Web App** <br>
 https://huggingface.co/spaces/mannjain/Probability_Distributions
+<<<<<<< HEAD
 
 ### Screenshots
 ![img.png](img.png)
@@ -25,3 +27,4 @@ https://huggingface.co/spaces/mannjain/Probability_Distributions
 <br>
 ![img_1.png](img_1.png)
 <br>
+
