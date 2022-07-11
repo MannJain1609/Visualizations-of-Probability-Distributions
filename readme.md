@@ -21,8 +21,11 @@ https://huggingface.co/spaces/mannjain/Probability_Distributions
 
 ### Screenshots
 
+UI
 ![img_3.png](img_3.png)
 
+Different distributions
 ![img_1.png](img_1.png)
 
+Graphs with properties
 ![img_2.png](img_2.png)
