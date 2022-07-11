@@ -18,13 +18,11 @@ The web app is deployed on the **Hugging Face Spaces.**
 <br>
 **Web App** <br>
 https://huggingface.co/spaces/mannjain/Probability_Distributions
-<<<<<<< HEAD
 
 ### Screenshots
-![img.png](img.png)
-<br>
-![img_2.png](img_2.png)
-<br>
-![img_1.png](img_1.png)
-<br>
 
+![img_3.png](img_3.png)
+
+![img_1.png](img_1.png)
+
+![img_2.png](img_2.png)
