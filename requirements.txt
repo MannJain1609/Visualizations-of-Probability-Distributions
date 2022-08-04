@@ -1,6 +1,5 @@
-streamlit
-numpy
-matplotlib.pyplot
 tensorflow
-tensorflow_probability
-math
+tensorflow-probability
+streamlit
+matplotlib
+numpy
